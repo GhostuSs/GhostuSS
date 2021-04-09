@@ -1,1 +1,1 @@
-[![Header](https://github.com/GhostuSs/GhostuSS/blob/main/logogithublogo.png)]
+![Header](https://github.com/GhostuSs/GhostuSS/blob/main/logogithublogo.png)
