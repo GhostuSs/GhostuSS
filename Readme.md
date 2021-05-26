@@ -6,7 +6,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 
 ### Unused but familiar:
-![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)
+![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)
 
 
 ### Follow Me:
