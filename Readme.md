@@ -9,7 +9,7 @@
 ### Unused but familiar:
 [![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://ru.wikipedia.org/wiki/C%2B%2B)
 [![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white)](hhttps://www.mysql.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=4EA75C)](https://www.mongodb.com)
 
 
 ### Follow Me:
