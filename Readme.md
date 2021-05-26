@@ -1,4 +1,4 @@
-![Header](https://github.com/GhostuSs/GhostuSS/blob/main/github%20logogithublogo.png)
+[![Header](https://github.com/GhostuSs/GhostuSS/blob/main/github%20logogithublogo.png)](https://github.com/GhostuSs)
 
 
 ### Languages and Tools:
