@@ -20,5 +20,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/MaximMovchan)
 [![Github](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostuSs)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostuSs&theme=dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostuSs&theme=dark&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=GhostuSs&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
