@@ -21,4 +21,4 @@
 [![Github](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostuSs)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostuSs)
-![Stats](https://github-readme-stats.vercel.app/api?username=GhostuSs&count_private=true&include_all_commits=true&show_icons=true&color=090909)
+![Stats](https://github-readme-stats.vercel.app/api?username=GhostuSs&count_private=true&include_all_commits=true&show_icons=true)
