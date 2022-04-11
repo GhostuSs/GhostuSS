@@ -5,7 +5,7 @@
 [![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)](https://dart.dev)
 [![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=DF5B40)](https://ru.wikipedia.org/wiki/Git)
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com)
+[![Firebase](https://img.shields.io/badge/firebase-%090909.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com)
 
 
 ### Unused but familiar:
@@ -21,4 +21,4 @@
 [![Github](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostuSs)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostuSs)
-![Stats](https://github-readme-stats.vercel.app/api?username=GhostuSs&count_private=true&include_all_commits=true&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=GhostuSs&count_private=true&include_all_commits=true&show_icons=true&coloc=090909)
