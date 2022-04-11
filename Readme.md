@@ -5,6 +5,8 @@
 [![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)](https://dart.dev)
 [![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=DF5B40)](https://ru.wikipedia.org/wiki/Git)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 
 ### Unused but familiar:
 [![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://ru.wikipedia.org/wiki/C%2B%2B)
