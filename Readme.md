@@ -23,4 +23,5 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostuSs&theme=dark&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=GhostuSs&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
-![Resume](https://disk.yandex.ru/i/5dvs9SbrjI8TTA)
+###Resume: (12.06.2022)
+📄(https://disk.yandex.ru/i/5dvs9SbrjI8TTA)
