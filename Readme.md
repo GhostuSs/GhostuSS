@@ -25,7 +25,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=GhostuSs&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
 ### Gists:
-[![Gisthub](https://img.shields.io/badge/github)](https://gist.github.com/GhostuSs/)
+[![Gisthub]([https://img.shields.io/badge/github](https://img.shields.io/badge/gisthub-look%20up-black))](https://gist.github.com/GhostuSs/)
 
 ### Resume:
 
