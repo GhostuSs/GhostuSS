@@ -27,6 +27,3 @@
 ### Gists:
 [![Gisthub]([https://img.shields.io/badge/github](https://img.shields.io/badge/gisthub-look%20up-black))](https://gist.github.com/GhostuSs/)
 
-### Resume:
-
-[To watch click here](https://disk.yandex.ru/i/5dvs9SbrjI8TTA)
