@@ -1,5 +1,5 @@
 [![Header](https://github.com/GhostuSs/GhostuSS/blob/main/github%20logogithublogo.png)](https://github.com/GhostuSs)
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26BRKEDGBicmow252" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/geometric-visuals-particles-26BRKEDGBicmow252">via GIPHY</a></p>
 
 ### Languages and Tools:
 [![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)](https://flutter.dev)
