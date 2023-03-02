@@ -6,7 +6,8 @@
 [![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)](https://dart.dev)
 [![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=DF5B40)](https://ru.wikipedia.org/wiki/Git)
 [![Firebase](https://img.shields.io/badge/firebase-090909.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com)
-
+[![Amplitude](https://img.shields.io/badge/amplitude-090909.svg?style=for-the-badge&logo=amplitude)](https://amplitude.com)
+[![OneSignal](https://img.shields.io/badge/onesignal-090909.svg?style=for-the-badge&logo=onesignal)](https://onesignal.com)
 
 ### Unused but familiar:
 [![C++](https://img.shields.io/badge/C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://ru.wikipedia.org/wiki/C%2B%2B)
