@@ -21,8 +21,8 @@
 [![Github](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostuSs)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=4F7DB3)](https://www.linkedin.com/in/don-t-be-evil-02aa40241/)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostuSs&theme=dark&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=GhostuSs&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
+<!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostuSs&theme=dark&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=GhostuSs&count_private=true&include_all_commits=true&show_icons=true&theme=dark) -->
 
 ### Gists:
 [![Gisthub]([https://img.shields.io/badge/github](https://img.shields.io/badge/gisthub-look%20up-black))](https://gist.github.com/GhostuSs/)
