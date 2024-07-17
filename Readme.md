@@ -9,7 +9,7 @@
 [![OneSignal](https://img.shields.io/badge/onesignal-090909.svg?style=for-the-badge&logo=onesignal)](https://onesignal.com)
 
 ### Packages supported by myself on pub.dev:
-[![consta_analytics]](https://pub.dev/packages/consta_analytics)
+[consta_analytics](https://pub.dev/packages/consta_analytics)
 
 ### Follow Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/movchan_mx/)
