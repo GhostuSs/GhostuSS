@@ -3,10 +3,6 @@
 ### Languages and Tools:
 [![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)](https://dart.dev)
-[![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=DF5B40)](https://ru.wikipedia.org/wiki/Git)
-[![Firebase](https://img.shields.io/badge/firebase-090909.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com)
-[![Amplitude](https://img.shields.io/badge/amplitude-090909.svg?style=for-the-badge&logo=amplitude)](https://amplitude.com)
-[![OneSignal](https://img.shields.io/badge/onesignal-090909.svg?style=for-the-badge&logo=onesignal)](https://onesignal.com)
 
 ### Packages supported by myself on pub.dev:
 [consta_analytics](https://pub.dev/packages/consta_analytics)
