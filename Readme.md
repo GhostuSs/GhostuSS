@@ -19,5 +19,5 @@
 
 ### CV:
 
-[![CV-Link](https://ghostuss.github.io/?lang=en)
+[CV-Link](https://ghostuss.github.io/?lang=en)
 
